@@ -158,3 +158,15 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+Convolutional Neural Networks/Special Applications/Art Generation/W4A2/pretrained-model/imagenet-vgg-verydeep-19.mat
+Convolutional Neural Networks/Object Detection/Car Detection/W3A1/model_data/variables/variables.data-00000-of-00001
+Convolutional Neural Networks/Deep Convolutional Models/Residual Networks/W2A1/models/resnet50.data-00000-of-00001
+Convolutional Neural Networks/Deep Convolutional Models/Residual Networks/W2A1/resnet50.h5
+Sequence Models/NLP/Debiasing/W2A1/data/glove.6B.50d.txt
+Sequence Models/NLP/Emojifying/W2A2/data/glove.6B.50d.txt
+Sequence Models/Sequence Models And Attention Mechanism/Trigger Word Detection/W3A2/XY_train/X.npy
+Sequence Models/Sequence Models And Attention Mechanism/Trigger Word Detection/W3A2/XY_dev/X_dev.npy
+Sequence Models/Transformer Network/Transformer Preprocessing/W4A4_UGL_POS/glove/glove.6B.100d.txt
+Sequence Models/Transformer Network/Transformer Network Application - Question Answering/W4A3_UGL/model/tensorflow/tf_model.h5
+Sequence Models/Transformer Network/Transformer Network Application - Question Answering/W4A3_UGL/model/pytorch/pytorch_model.bin
+Sequence Models/Transformer Network/Transformer Network Application - Named Entity Recognition/W4A2_UGL/model/tf_model.h5
